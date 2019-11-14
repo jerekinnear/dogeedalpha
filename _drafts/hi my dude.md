@@ -4,8 +4,8 @@ col_1:
   headline: It's col 1
   content: Hi my dude
 col_2:
-  headline: ''
-  content: ''
+  headline: Ping pong
+  content: Welling Ping pong
 col_3:
   headline: ''
   content: ''
