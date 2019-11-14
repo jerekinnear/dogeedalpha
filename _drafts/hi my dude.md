@@ -9,5 +9,9 @@ col_2:
 col_3:
   headline: ''
   content: ''
+menu:
+  main:
+    weight: 1
+    title: ''
 
 ---
