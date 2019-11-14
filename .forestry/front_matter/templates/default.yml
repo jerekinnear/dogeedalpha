@@ -7,5 +7,9 @@ fields:
   type: text
   hidden: false
   default: default
+- name: puisssance
+  type: tag_list
+  default: []
+  label: Puisssance
 pages:
 - firstone.md
