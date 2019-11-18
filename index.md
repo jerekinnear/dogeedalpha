@@ -38,7 +38,7 @@ page_sections:
   content: Quickly assemble and create custom sites with 16 design blocks for seven
     different sections.
   media:
-    image: "/ubuild-jekyll/uploads/2019/11/18/IMG_20190915_163153.jpg"
+    image: "/uploads/2019/11/18/IMG_20190915_163153.jpg"
     alt_text: Myoko 2
 - template: content-feature
   block: feature-1
