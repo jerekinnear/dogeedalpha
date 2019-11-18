@@ -49,7 +49,7 @@ page_sections:
     Forestry's UI.
   media:
     image: "/ubuild-jekyll/uploads/2019/11/18/IMG_20190915_163153.jpg"
-    alt_text: Customize Blocks
+    alt_text: Myoko Life
 - template: 1-column-text
   block: one-column-1
   headline: 16 Fully Responsive Design Blocks
