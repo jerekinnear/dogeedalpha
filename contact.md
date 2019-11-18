@@ -13,5 +13,9 @@ page_sections:
   block: cta-bar
   content: Rejoignez <strong>nous</strong>
   email_recipient: jerekinnear@gmail.com
+menu:
+  main:
+    weight: 3
+    title: contact
 
 ---
