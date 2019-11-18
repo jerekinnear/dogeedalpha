@@ -5,7 +5,7 @@ date:
 page_sections:
 - template: navigation-header
   block: header-1
-  logo: "/uploads/2019/11/18/887559.jpg"
+  logo: "/uploads/2019/11/18/Sans titre-2.png"
   navigation:
   - link: "/contact"
     link_text: contact
